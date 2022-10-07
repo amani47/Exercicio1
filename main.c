@@ -1,4 +1,5 @@
 /**
+Link do git: https://github.com/amani47/Exercicio1/blob/main/main.c
 Neste código pedimos para que o usuário insira as informações conforme os printf's
 que foram colocados de forma organizada para que seja executado da maneira correta
 desde que o usuário escolha as opções corretas. 
